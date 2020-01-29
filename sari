@@ -6,6 +6,7 @@ when click the part of the place on the right(eg:hubei,shandong,beijing etc.), t
 when click the confirmed the case by country on the left, it will zoom to locate the country;
 when click the total confirmed case on the lift bottom, it will show up the date, number and place,and click the dot with place under this diagram, it will only show what you didn't clicked
 when zoom with track pad, it will zoom to a specific location;
+when the number of people death or infect, the number changes, the dot might too.
 #data:
 report from the hospital of infect or death people
 date of people get infact or death
@@ -18,3 +19,4 @@ map in the center with different color block,grey and black.
 purple dot when clicking the number on the right.
 #stimulations:
 the red dot 🔴 on the map in different location all over the world.
+the yellow dot shows on the diagram.
