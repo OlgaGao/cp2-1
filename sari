@@ -5,3 +5,15 @@ when double click the red dot, it will zoom to the certain area on the map;
 when click the part of the place on the right(eg:hubei,shandong,beijing etc.), the red dot will become blink purple effect.
 when click the confirmed the case by country on the left, it will zoom to locate the country;
 when click the total confirmed case on the lift bottom, it will show up the date, number and place,and click the dot with place under this diagram, it will only show what you didn't clicked
+when zoom with track pad, it will zoom to a specific location;
+#data:
+report from the hospital of infect or death people
+date of people get infact or death
+report of recovery number
+report form every country
+#render:
+different size of dots(red dots on location).
+dots and lines of disgram map(yellow dots with yellow line).
+map in the center with different color block,grey and black.
+purple dot when clicking the number on the right.
+#stimulations:
