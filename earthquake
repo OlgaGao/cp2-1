@@ -1,0 +1,25 @@
+https://earthquake.usgs.gov/earthquakes/map/#%7B%22autoUpdate%22%3A%5B%22autoUpdate%22%5D%2C%22basemap%22%3A%22grayscale%22%2C%22feed%22%3A%221day_m25%22%2C%22listFormat%22%3A%22default%22%2C%22mapposition%22%3A%5B%5B8.320212289522944%2C-128.49609375%5D%2C%5B59.712097173322924%2C-61.52343749999999%5D%5D%2C%22overlays%22%3A%5B%22plates%22%5D%2C%22restrictListToMap%22%3A%5B%22restrictListToMap%22%5D%2C%22search%22%3Anull%2C%22sort%22%3A%22newest%22%2C%22timezone%22%3A%22utc%22%2C%22viewModes%22%3A%5B%22list%22%2C%22map%22%5D%2C%22event%22%3Anull%7D
+#render:
+the dots randomly appears on the map;
+the map construction with white and grey area blocks;
+red lines;
+#events:
+double click to zoom in;
+one click on any dot, the dot will change to blue and also the blue box will locate the location and details on the left;
+one click on any dot; the small window will showed up on the bottom left;
+click on the blue box on the left information box, it will turns to blue, also the corresponding dot will from yellow to blue;
+if click'for more information'on the left, it will expand or collapse the information;
+the+and-button on the left top of the center map, click+zoom in,click-to zoom out;
+on the right top of the center map, there is a 'zoom', click it, the information expand, and zoom to specific location;
+move you mice around, the number of the longitude	and	latitude will change follow the location of the mice;
+on the button of the center map, there is a show legend icon, click it,it shows the information of magnitude and age;
+#data:
+location name and region- map information;
+earthquake report;
+time of when it happened;
+depth of earthquake;
+longitude	and	latitude;
+level of the earthquake;
+#stimulation:
+null or can't find
+
